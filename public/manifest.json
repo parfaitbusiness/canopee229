@@ -1,0 +1,14 @@
+{
+  "name": "CANOPÉE 229",
+  "short_name": "CANOPÉE 229",
+  "description": "Le registre numérique vivant des arbres du Bénin",
+  "lang": "fr",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f6f1e7",
+  "theme_color": "#0f3d2e",
+  "icons": [
+    { "src": "/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" }
+  ]
+}
