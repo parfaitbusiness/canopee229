@@ -1,9 +1,9 @@
 {
-  "name": "canopee-229",
+  "name": "canopee229",
   "main": "src/worker.js",
   "compatibility_date": "2026-09-01",
   "assets": { "directory": "./public", "binding": "ASSETS" },
   "d1_databases": [
-    { "binding": "DB", "database_name": "canopee229", "database_id": "COLLE-ICI-L-ID-DE-TA-BASE" }
+    { "binding": "DB", "database_name": "canopee229", "database_id": "5667e883-d1a1-45ee-958c-57afb28812f2" }
   ]
 }
